@@ -1,6 +1,6 @@
 # DY-Book
 
-<video src='https://wallpaperm.cmcm.com/scene/preview_video/50dae3443cef33a51878fab8103ef8bc_preview.mp4' />
+<image src='http://d.paper.i4.cn/max/2017/03/20/14/1489990733158_705228.JPG' width='400' height='600' align=right />
 
 迁移知识点
 
