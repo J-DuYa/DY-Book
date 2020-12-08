@@ -1,6 +1,6 @@
 # DY-Book
 
-<image src='https://github.com/J-DuYa/DY-Book/blob/main/3017505424_14.jpg' />
+<video src='https://wallpaperm.cmcm.com/scene/preview_video/50dae3443cef33a51878fab8103ef8bc_preview.mp4' />
 
 迁移知识点
 
