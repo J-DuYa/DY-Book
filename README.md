@@ -1,4 +1,7 @@
 # DY-Book
+
+<image src='./root.png' />
+
 迁移知识点
 
 - 网络协议
