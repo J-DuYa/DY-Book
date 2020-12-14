@@ -5,7 +5,7 @@
 迁移知识点
 
 ## 🧮 计算机基础
-- 网络协议
+- [网络协议](https://github.com/J-DuYa/DY-Book/issues/2)
 
 ## 🕷️ 开发辅助文案
 - [GIT指令](https://github.com/J-DuYa/DY-Book/issues/1)
