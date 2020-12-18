@@ -27,8 +27,7 @@
 - [GIT 项目代码提交规范](https://github.com/J-DuYa/DY-Book/issues/4)
 
 ## 扩展知识
-- [Gitbook 写一个类阿里系技术文档](https://github.com/J-DuYa/DY-Book/issues/4)
-- [工具 官网首页制作](https://github.com/J-DuYa/DY-Book/issues/6)
+- [工具](https://github.com/J-DuYa/DY-Book/issues/6)
 
 ## 课外习题
 - [HTTP 协议](https://github.com/J-DuYa/DY-Book/issues/7)
