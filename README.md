@@ -43,3 +43,8 @@
 - [GG 编辑器](https://ggeditor.com/zh-CN)
 - [X6 设计图组件库](https://x6.antv.vision/zh)
 - [X7 设计图组件库](https://x7.antv.vision/zh)
+
+<img src='https://img2.doubanio.com/view/subject/s/public/s27283822.jpg' width='200px' height='400px' />
+
+上面所学知识引用列表
+[HTTP 图解](https://book.douban.com/subject/25863515/)
