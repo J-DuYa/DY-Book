@@ -26,6 +26,9 @@
 - [前端代码开发规范](https://github.com/J-DuYa/DY-Book/issues/3)
 - [GIT 项目代码提交规范](https://github.com/J-DuYa/DY-Book/issues/4)
 
+## npm
+- [cnpm 是怎么运行起来的](https://github.com/J-DuYa/DY-Book/issues/9)
+
 ## 扩展知识
 - [工具](https://github.com/J-DuYa/DY-Book/issues/6)
 
