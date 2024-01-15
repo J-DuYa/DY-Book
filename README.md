@@ -23,6 +23,7 @@
 
 ## 📚 Vue 知识解析
 - [【源码解析】Vue3 的 diff 算法](https://github.com/J-DuYa/DY-Book/issues/21)
+- [v-model 指令源码解析](https://github.com/J-DuYa/DY-Book/issues/22)
 
 ## 👖 微前端
 - 基础知识
