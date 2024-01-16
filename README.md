@@ -26,6 +26,7 @@
 - [v-model 指令源码解析](https://github.com/J-DuYa/DY-Book/issues/22)  
 - [Vue3 和 Vue2 的区别]()
 - [Vue 双向绑定的原理]()
+- [Vue-router 底层实现](https://github.com/J-DuYa/DY-Book/issues/25)
 
 ## 👖 微前端
 - [微前端](https://github.com/J-DuYa/DY-Book/issues/23)
