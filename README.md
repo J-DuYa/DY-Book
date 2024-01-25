@@ -25,11 +25,19 @@
 - [【源码解析】Vue3 的 diff 算法](https://github.com/J-DuYa/DY-Book/issues/21)
 - [v-model 指令源码解析](https://github.com/J-DuYa/DY-Book/issues/22)  
 - [Vue3 和 Vue2 的区别]()
-- [Vue 双向绑定的原理]()
+- [Vue 双向绑定的原理]()  
 - [Vue-router 底层实现](https://github.com/J-DuYa/DY-Book/issues/25)
+- [vue 的 data 属性为什么是一个函数而不是一个对象？](https://github.com/J-DuYa/DY-Book/issues/26)
 
 ## 👖 微前端
 - [微前端](https://github.com/J-DuYa/DY-Book/issues/23)
+
+## Typescript
+- [typescript 和 javascript 的区别 ](https://github.com/J-DuYa/DY-Book/issues/27)
+- [typescript 的数据类型有哪些](https://github.com/J-DuYa/DY-Book/issues/28)
+- [说说对 typescript 中枚举的理解？还有在实际场景中是如何使用？](https://github.com/J-DuYa/DY-Book/issues/29)
+- [typescript 的接口以及应用的场景](https://github.com/J-DuYa/DY-Book/issues/30)
+- [typescript 的类](https://github.com/J-DuYa/DY-Book/issues/31)
 
 ## 🕷️ 开发辅助文案
 - [GIT 指令](https://github.com/J-DuYa/DY-Book/issues/1)
